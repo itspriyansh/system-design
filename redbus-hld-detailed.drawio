@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="zV4AsKg48oseKtzj92Qw">
-    <mxGraphModel dx="1080" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,13 +73,15 @@
         <mxCell id="wiGKPjVVIxpK9OQSMamk-109" value="(Notification&lt;div&gt;Service)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wiGKPjVVIxpK9OQSMamk-110" vertex="1">
           <mxGeometry y="65" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wiGKPjVVIxpK9OQSMamk-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="wiGKPjVVIxpK9OQSMamk-74" edge="1">
+        <mxCell id="wiGKPjVVIxpK9OQSMamk-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="320" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="690" y="370" />
-              <mxPoint x="438" y="370" />
+              <mxPoint x="300" y="370" />
+              <mxPoint x="300" y="457" />
             </Array>
+            <mxPoint x="300" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wiGKPjVVIxpK9OQSMamk-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitX=0.497;exitY=0.881;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wiGKPjVVIxpK9OQSMamk-154" target="wiGKPjVVIxpK9OQSMamk-8" edge="1">
@@ -87,7 +89,8 @@
             <mxPoint x="690" y="310" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="690" y="370" />
-              <mxPoint x="281" y="370" />
+              <mxPoint x="440" y="370" />
+              <mxPoint x="440" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -134,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wiGKPjVVIxpK9OQSMamk-127" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="230" y="478.6" width="100" height="81.40000000000003" as="geometry" />
+          <mxGeometry x="393" y="482.5" width="100" height="81.40000000000003" as="geometry" />
         </mxCell>
         <mxCell id="wiGKPjVVIxpK9OQSMamk-8" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.redis_kvstore;" parent="wiGKPjVVIxpK9OQSMamk-127" vertex="1">
           <mxGeometry x="23.75" width="52.5" height="41.4" as="geometry" />
@@ -156,21 +159,6 @@
         </mxCell>
         <mxCell id="wiGKPjVVIxpK9OQSMamk-129" value="Third Party&lt;div&gt;Map Provider&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wiGKPjVVIxpK9OQSMamk-131" vertex="1">
           <mxGeometry y="71" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wiGKPjVVIxpK9OQSMamk-136" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="390" y="465" width="88" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="wiGKPjVVIxpK9OQSMamk-74" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" parent="wiGKPjVVIxpK9OQSMamk-136" vertex="1">
-          <mxGeometry x="24" width="48" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="wiGKPjVVIxpK9OQSMamk-133" value="" style="group" parent="wiGKPjVVIxpK9OQSMamk-136" vertex="1" connectable="0">
-          <mxGeometry y="8" width="88" height="117" as="geometry" />
-        </mxCell>
-        <mxCell id="wiGKPjVVIxpK9OQSMamk-134" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" parent="wiGKPjVVIxpK9OQSMamk-133" vertex="1">
-          <mxGeometry x="16" width="48" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="wiGKPjVVIxpK9OQSMamk-124" value="Relational&lt;div&gt;Database&lt;/div&gt;&lt;div&gt;Cluster&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wiGKPjVVIxpK9OQSMamk-133" vertex="1">
-          <mxGeometry x="8" y="57" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wiGKPjVVIxpK9OQSMamk-140" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="942.5" y="460.7" width="120" height="109.30000000000001" as="geometry" />
@@ -355,6 +343,60 @@
         </mxCell>
         <mxCell id="IsKLTyy1eamRWtbRPvsy-20" value="Aggregates query results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IsKLTyy1eamRWtbRPvsy-21">
           <mxGeometry y="142" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="651" width="88" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="IsKLTyy1eamRWtbRPvsy-22">
+          <mxGeometry x="24" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-24" value="" style="group" vertex="1" connectable="0" parent="IsKLTyy1eamRWtbRPvsy-22">
+          <mxGeometry y="8" width="88" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="IsKLTyy1eamRWtbRPvsy-24">
+          <mxGeometry x="16" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-26" value="Metadata&lt;div&gt;Cluster&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IsKLTyy1eamRWtbRPvsy-24">
+          <mxGeometry x="13" y="67" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="650" width="88" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="IsKLTyy1eamRWtbRPvsy-28">
+          <mxGeometry x="24" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-30" value="" style="group" vertex="1" connectable="0" parent="IsKLTyy1eamRWtbRPvsy-28">
+          <mxGeometry y="8" width="88" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-31" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="IsKLTyy1eamRWtbRPvsy-30">
+          <mxGeometry x="16" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-32" value="Trips Data&lt;div&gt;Cluster&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IsKLTyy1eamRWtbRPvsy-30">
+          <mxGeometry x="8" y="67" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-33" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="263.4" y="460.7" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.496;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IsKLTyy1eamRWtbRPvsy-36" target="IsKLTyy1eamRWtbRPvsy-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="600" />
+              <mxPoint x="187" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.377;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.491;exitY=0.93;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="298.32" y="567.9" as="sourcePoint" />
+            <mxPoint x="393.096" y="650.1279999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="298" y="600" />
+              <mxPoint x="393" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsKLTyy1eamRWtbRPvsy-36" value="Relational&lt;div&gt;Database&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Cluster&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="238.4" y="530.7" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
