@@ -14,65 +14,65 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-4" value="User selects a Match to participate in" style="html=1;dashed=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="130" width="280" height="50" as="geometry" />
+          <mxGeometry x="445" y="120" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-5" target="ZMgVWywVdw22Xnb9yl-t-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-5" value="User creates one or more virtual team for the Match" style="html=1;dashed=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="250" width="280" height="50" as="geometry" />
+          <mxGeometry x="445" y="210" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-6" target="ZMgVWywVdw22Xnb9yl-t-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-6" value="User selects a Contest related to the Match to participare" style="html=1;dashed=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="370" width="280" height="50" as="geometry" />
+          <mxGeometry x="445" y="300" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-7" target="ZMgVWywVdw22Xnb9yl-t-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-7" value="User submit a Virtual Team and request participation" style="html=1;dashed=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="490" width="280" height="50" as="geometry" />
+          <mxGeometry x="445" y="390" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-12" target="ZMgVWywVdw22Xnb9yl-t-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-12" value="Check if User Account has Sufficient Funds" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="610" width="210" height="80" as="geometry" />
+          <mxGeometry x="480" y="470" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-13" target="ZMgVWywVdw22Xnb9yl-t-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-13" value="Funds are deducted from the User Account" style="html=1;dashed=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="770" width="280" height="50" as="geometry" />
+          <mxGeometry x="240" y="580" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-14" target="ZMgVWywVdw22Xnb9yl-t-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-14" value="User is notified of successful registration" style="html=1;dashed=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="890" width="280" height="50" as="geometry" />
+          <mxGeometry x="240" y="680" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-15" target="ZMgVWywVdw22Xnb9yl-t-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-15" value="Show error message to the User" style="html=1;dashed=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="770" width="280" height="50" as="geometry" />
+          <mxGeometry x="630" y="580" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-16" target="ZMgVWywVdw22Xnb9yl-t-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-16" value="Participation failed" style="html=1;dashed=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="890" width="280" height="50" as="geometry" />
+          <mxGeometry x="630" y="680" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-12" target="ZMgVWywVdw22Xnb9yl-t-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="650" />
+              <mxPoint x="380" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="585" y="1015" width="50" height="50" as="geometry" />
+          <mxGeometry x="590" y="760" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#000000;container=0;" vertex="1" parent="ZMgVWywVdw22Xnb9yl-t-32">
           <mxGeometry x="5" y="5" width="40" height="40" as="geometry" />
