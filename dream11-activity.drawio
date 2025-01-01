@@ -59,7 +59,11 @@
           <mxGeometry x="630" y="580" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMgVWywVdw22Xnb9yl-t-16" target="ZMgVWywVdw22Xnb9yl-t-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="775" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-16" value="Participation failed" style="html=1;dashed=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="680" width="280" height="50" as="geometry" />
@@ -72,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="590" y="760" width="50" height="50" as="geometry" />
+          <mxGeometry x="560" y="750" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMgVWywVdw22Xnb9yl-t-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#000000;container=0;" vertex="1" parent="ZMgVWywVdw22Xnb9yl-t-32">
           <mxGeometry x="5" y="5" width="40" height="40" as="geometry" />
